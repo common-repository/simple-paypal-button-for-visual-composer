@@ -1,0 +1,7 @@
+.horizontal-layout div {
+  display: inline-block;
+  width: 33%;
+}
+.vertical-layout div {
+  margin: 5px 0;
+}
